@@ -1,0 +1,2 @@
+primer	ATTAGATACCC[ACTG]GGTAG
+fastafile	plugins/RemovePrimer/example/output_s60_c01_T220_s30_c08_cd.fa

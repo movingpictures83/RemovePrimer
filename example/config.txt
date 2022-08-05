@@ -1,0 +1,2 @@
+Prefix plugins/RemovePrimer/example/
+Plugin RemovePrimer inputfile parameters.primers.txt outputfile output_s60_c01_T220_s30_c08_P.fa
